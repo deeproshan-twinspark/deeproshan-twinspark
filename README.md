@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]  
+# Hi there 👋, I'm Deeproshan
 
 ### Frontend Developer | UI/UX Enthusiast | React & JavaScript Lover
 
